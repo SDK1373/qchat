@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Jan 25 16:57:52 CST 2019
+1.base=C\:\\Users\\sdk13\\AndroidStudioProjects\\qchat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\sdk13\\AndroidStudioProjects\\qchat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=default.jpg
+0.set=ASSET
+0.base=C\:\\Users\\sdk13\\AndroidStudioProjects\\qchat\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.baseType=DIRECTORY
+1.path=classes.dex

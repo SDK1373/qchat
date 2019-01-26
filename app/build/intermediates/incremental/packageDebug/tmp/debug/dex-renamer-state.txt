@@ -1,0 +1,7 @@
+#Fri Jan 25 20:19:51 CST 2019
+base.0=C\:\\Users\\sdk13\\AndroidStudioProjects\\qchat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\sdk13\\AndroidStudioProjects\\qchat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
